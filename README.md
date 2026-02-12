@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mx-ruthie
 - 👀 I’m interested in coding, tarot, queer issues, and neurodiversity. 
-- 🌱 I currently work for honeycomb.io on an App Enablement team focused on making developing in the front end better. 
+- 🌱 I currently work for honeycomb.io on an full-stack product team.
 - 💞️ I’m looking to deepen my skillset and continue investing in my career.
 - 📫 How to reach me: ruth.diane.irvin@gmail.com
 
